@@ -1,2 +1,2 @@
-# Data Warehouse and Analyse Project
+# Data Warehouse and Analytics Project
 Workshop Codespaces 
